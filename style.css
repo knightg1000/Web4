@@ -1,0 +1,35 @@
+
+.topbox{
+	width:100%;
+	margin:auto;
+}
+.top{
+	background-color:rgb(37, 37, 37);
+	color:rgb(255, 255, 255);
+    padding: 20px;
+	margin:20px 0;
+}
+.bottom{
+	background-color:rgb(37, 37, 37);
+	color:rgb(255, 255, 255);
+    padding: 20px;
+	margin:20px 0;
+}
+.body-gallery{
+	background-color:rgb(37, 37, 37);
+	color:rgb(255, 255, 255);
+    padding: 20px;
+	margin:20px 0;
+}
+.body-gallery-sub{
+	background-color:rgb(37, 37, 37);
+	color:rgb(255, 255, 255);
+    padding: 20px;
+	margin:20px 0;
+}
+.bodycon{
+	background-color:rgb(37, 37, 37);
+	color:rgb(255, 255, 255);
+    padding: 20px;
+	margin:20px 0;
+}
